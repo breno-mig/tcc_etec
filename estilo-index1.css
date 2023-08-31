@@ -1,0 +1,22 @@
+fieldset{
+    width:20px;
+    margin-top: 200px;
+    border: 1px;
+    color: black;
+    background-color: white;
+    width: 250px;
+    border-radius: 10px;
+}
+.logar{
+    background-color: #eeeeee;
+    border: 0px;
+}
+.logo{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 27px;
+    font-weight: bold;
+}
+.olho{
+    margin-left: -20px;
+}
